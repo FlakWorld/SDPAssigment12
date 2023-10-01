@@ -1,0 +1,74 @@
+[
+    {
+      "name": "US Dollar",
+      "shortName": "USD",
+      "values": {
+        "USD": 1.00,
+        "EUR": 0.93,
+        "GBP": 0.66,
+        "CHF": 1.01,
+        "CNY": 6.36,
+        "JPY": 123.54
+      }
+    },
+    {
+      "name": "Euro",
+      "shortName": "EUR",
+      "values": {
+        "USD": 1.073,
+        "EUR": 1.00,
+        "GBP": 0.71,
+        "CHF": 1.08,
+        "CNY": 6.83,
+        "JPY": 132.57
+      }
+    },
+    {
+      "name": "British Pound",
+      "shortName": "GBP",
+      "values": {
+        "USD": 1.51,
+        "EUR": 1.41,
+        "GBP": 1.00,
+        "CHF": 1.52,
+        "CNY": 9.60,
+        "JPY": 186.41
+      }
+    },
+    {
+      "name": "Swiss Franc",
+      "shortName": "CHF",
+      "values": {
+        "USD": 0.99,
+        "EUR": 0.93,
+        "GBP": 0.66,
+        "CHF": 1.00,
+        "CNY": 6.33,
+        "JPY": 122.84
+      }
+    },
+    {
+      "name": "Chinese Yuan Renminbi",
+      "shortName": "CNY",
+      "values": {
+        "USD": 0.16,
+        "EUR": 0.15,
+        "GBP": 0.11,
+        "CHF": 0.16,
+        "CNY": 1.00,
+        "JPY": 19.41
+      }
+    },
+    {
+      "name": "Japanese Yen",
+      "shortName": "JPY",
+      "values": {
+        "USD": 0.008,
+        "EUR": 0.007,
+        "GBP": 0.005,
+        "CHF": 0.008,
+        "CNY": 0.051,
+        "JPY": 1.000
+      }
+    }
+]
